@@ -1,27 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Parallax from 'parallax-js'
 
-function App() {
+const App = (props) => {
+  var scene = document.getElementById('scene')
+  var parallaxInstance = new Parallax(scene)
+  parallaxInstance.friction(0.2, 0.2)
+  parallaxInstance.limit(35.0, 35.0)
+  var windWaker = document.getElementsByClassName("wind-waker")[0]
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <h1>Is this working?</h1>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <div></div>
+  )
 }
 
-export default App;
+export default App
