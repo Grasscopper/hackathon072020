@@ -2,6 +2,10 @@ html {
   background-color: #9CB861;
 }
 
+p {
+  margin-left: 20px;
+}
+
 #wind-waker-link {
   width: 8%;
   height: 8%;
@@ -28,6 +32,18 @@ html {
   height: 12%;
   margin-top: 490px;
   margin-left: 300px;
+}
+
+#navi {
+  margin-top: 370px;
+  margin-left: 1250px;
+}
+
+#twilight-princess-link {
+  width: 60%;
+  height: 60%;
+  margin-top: 200px;
+  margin-left: 140px;
 }
 
 body {
