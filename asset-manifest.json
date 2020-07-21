@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hackathon072020/static/css/main.a1852ce5.chunk.css",
-    "main.js": "/hackathon072020/static/js/main.7fb355ba.chunk.js",
-    "main.js.map": "/hackathon072020/static/js/main.7fb355ba.chunk.js.map",
+    "main.css": "/hackathon072020/static/css/main.d45c52f0.chunk.css",
+    "main.js": "/hackathon072020/static/js/main.e55733d4.chunk.js",
+    "main.js.map": "/hackathon072020/static/js/main.e55733d4.chunk.js.map",
     "runtime-main.js": "/hackathon072020/static/js/runtime-main.696cfc24.js",
     "runtime-main.js.map": "/hackathon072020/static/js/runtime-main.696cfc24.js.map",
     "static/js/2.01e40225.chunk.js": "/hackathon072020/static/js/2.01e40225.chunk.js",
     "static/js/2.01e40225.chunk.js.map": "/hackathon072020/static/js/2.01e40225.chunk.js.map",
     "index.html": "/hackathon072020/index.html",
-    "precache-manifest.aa7379d31f23e4f6557f13da0cdc4bd8.js": "/hackathon072020/precache-manifest.aa7379d31f23e4f6557f13da0cdc4bd8.js",
+    "precache-manifest.cb84110828f83151a256691a3c534a16.js": "/hackathon072020/precache-manifest.cb84110828f83151a256691a3c534a16.js",
     "service-worker.js": "/hackathon072020/service-worker.js",
-    "static/css/main.a1852ce5.chunk.css.map": "/hackathon072020/static/css/main.a1852ce5.chunk.css.map",
+    "static/css/main.d45c52f0.chunk.css.map": "/hackathon072020/static/css/main.d45c52f0.chunk.css.map",
     "static/js/2.01e40225.chunk.js.LICENSE.txt": "/hackathon072020/static/js/2.01e40225.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.696cfc24.js",
     "static/js/2.01e40225.chunk.js",
-    "static/css/main.a1852ce5.chunk.css",
-    "static/js/main.7fb355ba.chunk.js"
+    "static/css/main.d45c52f0.chunk.css",
+    "static/js/main.e55733d4.chunk.js"
   ]
 }
