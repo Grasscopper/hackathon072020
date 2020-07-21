@@ -1,3 +1,6 @@
+All credit for characters and scenery goes to Nintendo.
+The images are from freepngimg.com.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
